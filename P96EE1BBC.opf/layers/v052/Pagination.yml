@@ -1218,20 +1218,20 @@ annotations:
     reference: ''
     span:
       start: 232888
-      end: 234290
+      end: 234291
     note_ref: fb0aac0e474949cfa0c527c79756871a
   dfe4b886be304d1980fd8f547635aaf3:
     imgnum: 1215
     reference: ''
     span:
-      start: 234292
-      end: 235645
+      start: 234293
+      end: 235644
     note_ref: fb0aac0e474949cfa0c527c79756871a
   67423bd0763540728c4e0f5251b33b19:
     imgnum: 1216
     reference: ''
     span:
-      start: 235647
+      start: 235646
       end: 237023
     note_ref: fb0aac0e474949cfa0c527c79756871a
   b6e416c5bc014aa59fb08c70ded453ee:
@@ -1239,68 +1239,68 @@ annotations:
     reference: ''
     span:
       start: 237025
-      end: 238438
+      end: 238406
     note_ref: fb0aac0e474949cfa0c527c79756871a
   5ca3fa6000af465684a76a9cd3c5f36a:
     imgnum: 1218
     reference: ''
     span:
-      start: 238440
-      end: 240199
+      start: 238408
+      end: 240167
   7075b4c3961849a0ba25c9406f7d9a95:
     imgnum: 1219
     reference: ''
     span:
-      start: 240201
-      end: 241946
+      start: 240169
+      end: 241914
   422c6573092b466aa17791fe0f695cb7:
     imgnum: 1220
     reference: ''
     span:
-      start: 241948
-      end: 243774
+      start: 241916
+      end: 243742
   606f6320c70840a0ad4c736fa9455e28:
     imgnum: 1221
     reference: ''
     span:
-      start: 243776
-      end: 245525
+      start: 243744
+      end: 245493
   1bc729f6426e49e99eb44341c2084d9f:
     imgnum: 1222
     reference: ''
     span:
-      start: 245527
-      end: 247415
+      start: 245495
+      end: 247383
   e054658061a543a2a4e74bec7e6b49e2:
     imgnum: 1223
     reference: ''
     span:
-      start: 247417
-      end: 249255
+      start: 247385
+      end: 249223
   60a66d04138a41fb997b34a02438767b:
     imgnum: 1224
     reference: ''
     span:
-      start: 249257
-      end: 250948
+      start: 249225
+      end: 250916
   054d99fd0793425b95c07816119806b6:
     imgnum: 1225
     reference: ''
     span:
-      start: 250950
-      end: 252857
+      start: 250918
+      end: 252825
   45ed08d2b0c84042b4a23eceee77cbfa:
     imgnum: 1226
     reference: ''
     span:
-      start: 252859
-      end: 254683
+      start: 252827
+      end: 254651
   fb0aac0e474949cfa0c527c79756871a:
     imgnum: 1227
     reference: ''
     span:
-      start: 254685
-      end: 255649
+      start: 254653
+      end: 255617
 local_ids:
   5d53a8423074483e8449393a73682162: 200000
   f3d4475087e14dd6b223b022d315eb44: 200001
